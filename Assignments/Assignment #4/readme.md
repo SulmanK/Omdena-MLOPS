@@ -1,8 +1,9 @@
 
-### Problem
+#### Problem
 
 Solar energy is a renewable energy source that depends on the irradiation data parameters to be efficient. Therefore, before investing in a new solar plant, it is necessary to gather the most solar data possible.
-Acquisition of data
+
+#### Acquisition of data
 
 1) Process a "raw" satellite image of the location.
 
@@ -12,12 +13,12 @@ Acquisition of data
 
 4) Apply a modified version of the REST2 clear-sky radiation model, that allows us to use the latest global aerosol (dust, salt, smoke, etc.) and water vapor content to generate precise estimates of the solar radiation available to cloud-free regions.
 
-### Purpose:
+#### Purpose:
 
 Using the data collected, we want to predict solar irradiance.
 
 
-### Goals (+ Technologies used for each step)
+#### Goals (+ Technologies used for each step)
 * Complete data cleaning and feature engineering
 	* Pandas
 * Complete EDA
@@ -34,7 +35,7 @@ Using the data collected, we want to predict solar irradiance.
 	* Heroku
 
 
-### Contents:
+#### Contents:
 dataset - contains the raw and cleaned dataset
 model - dump files of the algorithms used for prediction + plots
 notebook - Data cleaning, EDA, Model Dev, and Model Val notebooks
