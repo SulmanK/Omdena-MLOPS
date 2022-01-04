@@ -16,4 +16,15 @@ Course content:
   * Neptune   
 
 
-The repository includes all of the assignments given, but the final project (assignment #4) involved the handling of a end-to-end MLOPS real-life problem.
+This repository includes all of the assignments in the course. With the final project (assignment #4) dealing with an end-to-end real-life MLOPS problem.
+
+Technologies Used:
+* Docker
+* Kubernetes
+* AWS
+* GCP
+* Azure
+* Mlflow
+* Neptune
+* Python
+* Heroku
