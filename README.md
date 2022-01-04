@@ -1,5 +1,5 @@
 # Omdena-MLOPS
-An introductory course to the MLOPS workflow by Omdena. 
+## An introductory course to the MLOPS workflow by Omdena. 
 
 The course content included:
 * Background of MLOPS
