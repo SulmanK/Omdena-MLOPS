@@ -36,8 +36,8 @@ Using the data collected, we want to predict solar irradiance.
 
 
 #### Contents:
-dataset - contains the raw and cleaned dataset
-model - dump files of the algorithms used for prediction + plots
-notebook - Data cleaning, EDA, Model Dev, and Model Val notebooks
-screenshots - Screenshots of Mlflow, Neptune, and Heroku deployment
-solar-app - Deployed App on Heroku
+* dataset - contains the raw and cleaned dataset
+* model - dump files of the algorithms used for prediction + plots
+* notebook - Data cleaning, EDA, Model Dev, and Model Val notebooks
+* screenshots - Screenshots of Mlflow, Neptune, and Heroku deployment
+* solar-app - Deployed App on Heroku
