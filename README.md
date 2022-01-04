@@ -1,5 +1,5 @@
 # Omdena-MLOPS
-## An introductory course to Machine Learning Operations (MLOPS) by Omdena. This repository includes all of the assignments in the course. With the final project (assignment #4) dealing with an end-to-end real-life MLOPS problem.
+## An introductory course to Machine Learning Operations (MLOPS) by Omdena. This repository includes all of the assignments in the course. With the final project (assignment #4) dealing with a real-word end-to-end case study.
 
 Course content:
 * Background of MLOPS
