@@ -1,7 +1,7 @@
 # Omdena-MLOPS
-## An introductory course to the MLOPS workflow by Omdena. 
+## An introductory course to Machine Learning Operations (MLOPS) by Omdena
 
-The course content included:
+Course content:
 * Background of MLOPS
 * Containers for ML Deployment
   *   Kubernetes
