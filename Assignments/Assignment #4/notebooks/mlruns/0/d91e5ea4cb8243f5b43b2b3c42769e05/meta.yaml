@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/d91e5ea4cb8243f5b43b2b3c42769e05/artifacts
+end_time: 1641307192991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d91e5ea4cb8243f5b43b2b3c42769e05
+run_uuid: d91e5ea4cb8243f5b43b2b3c42769e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641307077911
+status: 3
+tags: []
+user_id: sulma
